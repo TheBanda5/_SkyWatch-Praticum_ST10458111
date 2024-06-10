@@ -7,11 +7,12 @@
     android:background="#2196F3"
     tools:context=".MainScreen">
 
-    <TextView
-        android:id="@+id/averageTemperatureTextView"
+    <EditText
+        android:id="@+id/editText"
         android:layout_width="299dp"
         android:layout_height="50dp"
         android:layout_centerHorizontal="true"
+        android:hint="&quot;Write here the day&quot;"
         android:textColor="@android:color/white"
         android:textSize="18sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -25,7 +26,7 @@
         android:id="@+id/detailsButton"
         android:layout_width="111dp"
         android:layout_height="62dp"
-        android:layout_below="@id/averageTemperatureTextView"
+        android:layout_below="@id/editText"
         android:layout_centerHorizontal="true"
         android:text="Details"
         app:layout_constraintBottom_toBottomOf="parent"
