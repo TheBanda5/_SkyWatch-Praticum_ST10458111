@@ -1,5 +1,7 @@
 Bered Kayembe Kabuluku
 
+https://github.com/TheBanda5/_SkyWatch-Praticum_ST10458111.git
+
 Welcome to SkyWatch! This Android application allows you to track weekly temperatures and display details for each day. You can also clear previously entered data and exit the application at any time
 
 Launch the application on an Android studio.
