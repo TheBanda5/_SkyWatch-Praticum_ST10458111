@@ -13,7 +13,7 @@ class MainActivity : AppCompatActivity() {
         val btnExit = findViewById<Button>(R.id.btnExit)
 
         btnNext.setOnClickListener{
-            intent = Intent(this, )
+
         }
     }
 }
