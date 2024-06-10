@@ -6,4 +6,60 @@
     android:layout_height="match_parent"
     tools:context=".MainScreen">
 
+    <TextView
+        android:id="@+id/averageTemperatureTextView"
+        android:layout_width="299dp"
+        android:layout_height="50dp"
+        android:layout_centerHorizontal="true"
+        android:textColor="@android:color/white"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.642"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.259" />
+
+    <Button
+        android:id="@+id/detailsButton"
+        android:layout_width="111dp"
+        android:layout_height="62dp"
+        android:layout_below="@id/averageTemperatureTextView"
+        android:layout_centerHorizontal="true"
+        android:text="Details"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.119"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.787" />
+
+    <Button
+        android:id="@+id/clearButton"
+        android:layout_width="94dp"
+        android:layout_height="57dp"
+        android:layout_below="@id/detailsButton"
+        android:layout_centerHorizontal="true"
+        android:text="Clear"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.842"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.792" />
+
+    <Button
+        android:id="@+id/exitButton"
+        android:layout_width="111dp"
+        android:layout_height="59dp"
+        android:layout_below="@id/clearButton"
+        android:layout_centerHorizontal="true"
+        android:text="Exit"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.916" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
