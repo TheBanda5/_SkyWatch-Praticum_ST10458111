@@ -16,6 +16,7 @@ class MainActivity : AppCompatActivity() {
         btnNext.setOnClickListener{
             // Move to next page
             val intent = Intent(this, MainScreen::class.java)
+            startActivity(intent)
         }
 
         btnExit.setOnClickListener{

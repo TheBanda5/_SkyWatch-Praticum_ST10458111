@@ -68,14 +68,22 @@
         android:layout_width="136dp"
         android:layout_height="74dp"
         android:text="Next"
-        tools:layout_editor_absoluteX="43dp"
-        tools:layout_editor_absoluteY="555dp" />
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.058"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.844" />
 
     <Button
         android:id="@+id/btnExit"
         android:layout_width="131dp"
         android:layout_height="66dp"
         android:text="Exit"
-        tools:layout_editor_absoluteX="250dp"
-        tools:layout_editor_absoluteY="555dp" />
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.867"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.846" />
 </androidx.constraintlayout.widget.ConstraintLayout>
