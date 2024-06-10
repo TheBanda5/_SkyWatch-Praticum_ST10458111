@@ -17,4 +17,10 @@ The 'Exit' button allows you to exit the application."
 )
 ![Screenshot 2024-06-10 112901](https://github.com/TheBanda5/_SkyWatch-Praticum_ST10458111/assets/164514856/19c50ec7-da48-423a-8ba5-b1cb20cbb64b)
 ![Screenshot 2024-06-10 112800](https://github.com/TheBanda5/_SkyWatch-Praticum_ST10458111/assets/164514856/c078759e-2dda-4b0a-9264-5cda05f287d5)
+![Screenshot 2024-06-10 115928](https://github.com/TheBanda5/_SkyWatch-Praticum_ST10458111/assets/164514856/33603388-d880-45a9-a05f-8a36764017c5)
+![Screenshot 2024-06-10 120231](https://github.com/TheBanda5/_SkyWatch-Praticum_ST10458111/assets/164514856/3bfc0135-7feb-4adc-9c06-0aeee2b4587f)
+![Screenshot 2024-06-10 120344](https://github.com/TheBanda5/_SkyWatch-Praticum_ST10458111/assets/164514856/6fa3898f-6251-4bfc-83bc-f7f39b190ae9)
+
+
+
 
